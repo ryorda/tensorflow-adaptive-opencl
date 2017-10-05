@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d834ed3f387818add4d43407628f9c111e858475/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/classes_b5f6fb0d2dab2014fe17c2060ec965b11f749023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8b61ee7309da6442071c27bf7e29926711108214/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/classes_e6956228351e4338ee9adca117cfe189fa0f0d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/552d61d07731e017643f8f37b72ad53fd0d12a23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/classes_249ae8c95d14948828beb18074a7404daf166121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/8b61ee7309da6442071c27bf7e29926711108214/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-23.2.1_a0bad1117733744f7d9015b24ff24bd2dc1be822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/4b1879a7c5f2fe5d58e12cd3636d7e704fb6eddf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/classes_383816afdd282f50ec51bddfeaddead139b37b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ryorda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/ryorda/ta/tutorial/opencl/workspace/OpenCLCLGenerator_Sample/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-23.2.1_65f2b4907627b4739e7c402e0768a03ae484e7cf.jar" />
+    </item>
+
+</items>
